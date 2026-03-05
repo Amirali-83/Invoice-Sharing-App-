@@ -8,8 +8,6 @@ Designed to run locally using **XAMPP** with **no external backend dependencies*
 
 ---
 
-## 📸 Screenshots
-
 ### Invoice Upload Page
 ![Uploader Page](uploader.png)
 
