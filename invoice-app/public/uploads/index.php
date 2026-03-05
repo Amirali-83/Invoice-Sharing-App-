@@ -1,1 +1,0 @@
-<?php // keep this directory
